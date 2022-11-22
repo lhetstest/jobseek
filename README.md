@@ -24,8 +24,11 @@ Gridsome starter that is ideal for articles/tutorials that uses markdown for the
 
 ## Installation
 
-Run the following command to create a new gridsome project 
-
+Run the following command to run a project in development mode
 ```
-gridsome create my-blog https://github.com/jammeryhq/gridsome-starter-articles
+gridsome develop
 ```
+Run the following comand to deploy the project to production
+```
+gridsome build
+``` 
