@@ -1,10 +1,5 @@
 <div align="center">
-
-<a href="https://www.jammeryhq.com" title="JammeryHQ" target="_blank">
-
-  <img src="https://jammeryhq.com/jammeryhq.png" width="128" />
-  
-</a>
+STRATEGIC JOBSEEK
 
 <p>
 Fast-track your JAMstack development & learning
